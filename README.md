@@ -1,6 +1,6 @@
 # Netflix Movies & TV Shows — Exploratory Data Analysis Using Python
 
-**Prepared by:** Anchal Chauhan  
+**Prepared by:** Anchal Chauhan   
 **Project Category:** Data Analysis with Python  
 **Tools:** Python | Pandas | NumPy | Matplotlib | Jupyter Notebook
 
